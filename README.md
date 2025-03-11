@@ -1,24 +1,25 @@
 # 👋 Hello, I'm Harshil !
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Your Project Name](YourProjectLink)**
+- 🔯 I’m currently working on **WebChat(https://github.com/Harshiile/Rebuild-WebChat)**
 - 🌱 I’m learning **Solidity, Web3, etc.**
-- 👯 I’m looking to collaborate on **Blockchain & Web Development projects**
+- 👯️ I’m looking to collaborate on **Blockchain & Web Development projects**
 - 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
-- 📫 Reach me at **theharshiile@example.com**
+- 📧 Reach me at **theharshiile@example.com**
 
 ## 🛠 Tech Stack
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0088CC.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-764ABC.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ## 🔗 Connect With Me
-[![LinkedIn](<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
-    <rect width="150" height="30" fill="black" rx="5"/>
-    <text x="30" y="20" font-family="Arial" font-size="14" fill="white">Twitter (X)</text>
-    <path fill="white" d="M40 6 L50 6 L60 18 L70 6 L80 6 L65 24 L80 42 L70 42 L60 30 L50 42 L40 42 L55 24 Z"/>
-</svg>
-)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshiile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshiile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshiile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theharshiile@example.com)
