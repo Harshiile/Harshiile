@@ -15,5 +15,10 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
+    <rect width="150" height="30" fill="black" rx="5"/>
+    <text x="30" y="20" font-family="Arial" font-size="14" fill="white">Twitter (X)</text>
+    <path fill="white" d="M40 6 L50 6 L60 18 L70 6 L80 6 L65 24 L80 42 L70 42 L60 30 L50 42 L40 42 L55 24 Z"/>
+</svg>
+)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
