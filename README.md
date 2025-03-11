@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Solidity, Web3, etc.**
 - 👯️ I’m looking to collaborate on **Blockchain & Web Development projects**
 - 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
-- 📧 Reach me at **theharshiile@example.com**
+- 📧 Reach me at **theharshiile@gmail.com**
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
