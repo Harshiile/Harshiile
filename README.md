@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Harshil !
 
 ## 🚀 About Me
-- 🔯 I’m currently working on **WebChat(https://github.com/Harshiile/Rebuild-WebChat)**
+- 🔯 I’m currently working on **[WebChat](https://github.com/Harshiile/Rebuild-WebChat)**
 - 🌱 I’m learning **Solidity, Web3, etc.**
 - 👯️ I’m looking to collaborate on **Blockchain & Web Development projects**
 - 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
@@ -22,4 +22,4 @@
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshiile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshiile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshiile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theharshiile@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theharshiile@gmail.com)
