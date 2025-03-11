@@ -1,17 +1,14 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Harshil !
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Your Project Name](YourProjectLink)**
-- 🌱 I’m learning **Solidity, .NET, Web3, etc.**
+- 🌱 I’m learning **Solidity, Web3, etc.**
 - 👯 I’m looking to collaborate on **Blockchain & Web Development projects**
-- 💬 Ask me about **C#, .NET, Solidity, Smart Contracts**
-- 📫 Reach me at **your-email@example.com**
-- ⚡ Fun fact: *I love coding & teaching!*
+- 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
+- 📫 Reach me at **theharshiile@example.com**
 
 ## 🛠 Tech Stack
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📊 GitHub Stats
