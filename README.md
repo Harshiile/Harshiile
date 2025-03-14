@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Harshil !
 
 ## 🚀 About Me
-- 🔯 I’m currently working on **[WebChat](https://github.com/Harshiile/Rebuild-WebChat)**
+- 🔯 I’m currently working on **[WebChat](https://github.com/Harshiile/WebChat)**
 - 🌱 I’m learning **Solidity, Web3, etc.**
 - 👯️ I’m looking to collaborate on **Blockchain & Web Development projects**
 - 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
