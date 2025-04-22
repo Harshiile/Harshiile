@@ -1,11 +1,9 @@
 # Myself Harshil D Parmar !
 
-## 🚀 About Me
-- 🔯 I’m currently working on **[WebChat](https://github.com/Harshiile/WebChat)**
-- 🌱 I’m learning **Solidity, Web3, etc.**
-- 👯️ I’m looking to collaborate on **Blockchain & Web Development projects**
-- 💬 Ask me about **TypeScript, Solidity, Smart Contracts**
-- 📧 Reach me at **theharshiile@gmail.com**
+- Currently working on **[JOU](https://github.com/Harshiile/jou-backend)**
+- Learning **Solidity, Web3, etc.**
+- Ask me about **TypeScript, Solidity, Smart Contracts**
+- Reach me at **theharshiile@gmail.com**
 
 ## 🛠 Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
